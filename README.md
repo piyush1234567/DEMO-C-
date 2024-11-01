@@ -1,3 +1,3 @@
 # DEMO-C-
 This is my first git repository
-author - Piyush
+author - Piyush Rastogi
